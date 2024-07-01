@@ -2,11 +2,11 @@
 
     The main libraries used in this project include Selenium, PyTest and SeleniumBase.
 
-**After clicking Accept Cookies button got this error**
+**After clicking Accept Cookies button on mobile devices got this error**
 "[GraphQL] One or more GraphQL errors were detected on request (...).
 UpdateConsentMutation: failed integrity check"
 
-SeleniumBase was used to run steps.
+SeleniumBase was used to run steps on the Desktop version.
 
 1. go to https://m.twitch.tv/
 2. click in the search icon
